@@ -1,3 +1,5 @@
+“Buscando respostas para as suas dúvidas” (Dr. João Pedro)
+
 ⁠Os dois primeiros são artigos que usaremos como base para a discussão. 
 
 Não se preocupem em ler os artigos completos por enquanto. Busquem ler ambos de forma estruturada identificando: 
