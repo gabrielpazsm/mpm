@@ -14,25 +14,25 @@ Ao final, espera-se:
 ## Recomendações de leitura pontuais
 R for Data Science (R4DS, 2ª ed.) de Hadley Wickham, que está gratuito online em https://r4ds.hadley.nz, especificamente: 
 
-0. "Envio de dados” do guia da Academia Científica
+1. "Envio de dados” do guia da Academia Científica
 https://guiaac.quarto.pub/guia-ac/enviar-dados.html
 
-1. R4DS, capítulo "Data visualization", apenas a seção Prerequisites
+2. R4DS, capítulo "Data visualization", apenas a seção Prerequisites
 Instalar R, RStudio e o tidyverse.
 https://r4ds.hadley.nz/data-visualize
 
-2. R4DS, cap. "Workflow: scripts and projects" 
+3. R4DS, cap. "Workflow: scripts and projects" 
 Por que .Rproj
 https://r4ds.hadley.nz/workflow-scripts
 
-3. Wickham H. "Tidy Data". Journal of Statistical Software, 2014 
+4. Wickham H. "Tidy Data". Journal of Statistical Software, 2014 
 Leia as seções 1 e 2 (≈4 páginas), sobre filosofia tidy data (conceito mais importante do curso)
 https://www.jstatsoft.org/article/view/v059i10
 
-4. R4DS, cap. "Data tidying", só a seção inicial "Tidy data"
+5. R4DS, cap. "Data tidying", só a seção inicial "Tidy data"
 https://r4ds.hadley.nz/data-tidy
 
-5. R4DS, cap. "Data transformation"
+6. R4DS, cap. "Data transformation"
 É o capítulo principal da aula. 
 https://r4ds.hadley.nz/data-transform
 
