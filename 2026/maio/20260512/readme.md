@@ -4,7 +4,7 @@ Ao final, espera-se:
 
 1. Navegar pelo RStudio com desenvoltura.
 2. Entender e usar projetos (.Rproj).
-3. Importar dados diretamente do GitHub.
+3. Importar dados do GitHub.
 4. Instalar e carregar pacotes.
 5. Inspecionar um data frame: view(), glimpse(), skimr::skim().
 6. Operar linhas: filter(), arrange(), slice().
