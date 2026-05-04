@@ -14,6 +14,9 @@ Ao final, espera-se:
 ## Recomendações de leitura pontuais
 R for Data Science (R4DS, 2ª ed.) de Hadley Wickham, que está gratuito online em https://r4ds.hadley.nz, especificamente: 
 
+0. "Envio de dados” do guia da Academia Científica
+https://guiaac.quarto.pub/guia-ac/enviar-dados.html
+
 1. R4DS, capítulo "Data visualization", apenas a seção Prerequisites
 Instalar R, RStudio e o tidyverse.
 https://r4ds.hadley.nz/data-visualize
@@ -37,4 +40,4 @@ https://r4ds.hadley.nz/data-transform
 Leia o capítulo "Data transformation" do R4DS. Sozinho, ele cobre cerca de 70% do que será discutido na aula.
 
 ## Dados utilizados
-O banco da aula é uma versão simulada e intencionalmente "suja" do estudo SPRINT (hipertensão, N Engl J Med 2015), hospedada no GitHub. 
+O banco da aula é uma versão simulada e intencionalmente "suja" do estudo SPRINT (hipertensão, N Engl J Med 2015).
