@@ -1,0 +1,1 @@
+Nesta semana, continuaremos os trabalhos iniciados na pasta 20260512.
